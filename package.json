@@ -1,0 +1,22 @@
+{
+  "name": "playwright-training-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hubert-Niewinski/playwright-training-project.git"
+  },
+  "keywords": [],
+  "author": "Hubert Niewiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hubert-Niewinski/playwright-training-project/issues"
+  },
+  "homepage": "https://github.com/Hubert-Niewinski/playwright-training-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.0",
+    "@types/node": "^17.0.33"
+  }
+}
