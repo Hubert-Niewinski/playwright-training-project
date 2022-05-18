@@ -1,0 +1,26 @@
+{
+  "basePage": {
+    "subnavbar": {
+      "apparelAndAccessories": "Apparel & accessories",
+      "makeup": "Makeup",
+      "skincare": "Skincare",
+      "fragrance": "Fragrance",
+      "men": "Men",
+      "hairCare": "Hair Care",
+      "books": "Books"
+    }
+  },
+  "homePage": {
+    "headerMain": " Account Login",
+    "headerNewCustomer": "I am a new customer.",
+    "headerReturningCustomer": "Returning Customer",
+    "linkForgotPassword": "Forgot your password?",
+    "linkForgotLogin": "Forgot your login?"
+  },
+  "registerPage": {
+    "headerMain": " Create Account"
+  },
+  "myAccountPage": {
+    "headerMain": " My Account"
+  }
+}
