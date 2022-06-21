@@ -1,0 +1,69 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "AC_SF_8CEFDA09D5",
+      "value": "1ac3e42eef93850fd905717f08187f57",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "language",
+      "value": "en",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": 1658438519.227168,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "currency",
+      "value": "USD",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": 1658438519.227192,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "neowize_user",
+      "value": "{%22id%22:%220f66dcd2-fc94-446f-aeb5-159d496c050e%22%2C%22version%22:1.2}",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": 2286566520,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "customer",
+      "value": "YXV1a0FuK0JzZ29KbHhwT2xXWHdoaVFsVmpPR3ZpNVNhdEFvdHF2anZOTWwrTUdHWXFrUEY3dG9ISEU0MmhrT0dOUGlVVDh1R3VTeGk3cmZZNitxenlKMFE3N0g2eGVSVnFvOEhGYUVjNUlOSXNjVzgxbjh3RzlHTWo4KzBjeHhpdEUxV2FMSjI3UkI4cm9SamZXSit3PT06OvXIcv4eWj3llNRJnTWO0EY%3D",
+      "domain": "automationteststore.com",
+      "path": "/",
+      "expires": 1687382520.676011,
+      "httpOnly": true,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://automationteststore.com",
+      "localStorage": [
+        {
+          "name": "neowize_last_actual_page",
+          "value": "https://automationteststore.com/index.php?rt=account/login"
+        },
+        {
+          "name": "neowize_last_cart",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}

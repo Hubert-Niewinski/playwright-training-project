@@ -22,5 +22,8 @@
   },
   "myAccountPage": {
     "headerMain": " My Account"
+  },
+  "checkoutConfirmationPage": {
+    "headerMain": " Your Order Has Been Processed!"
   }
 }

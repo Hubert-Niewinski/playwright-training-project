@@ -1,10 +1,17 @@
-import { Page } from "@playwright/test";
-import { BasePage } from "./basePage";
+import { Locator, Page } from '@playwright/test';
+import { BasePage } from './basePage';
 
 export class HomePage extends BasePage {
-  url: string
+  readonly path: string;
+  readonly linkProduct: Locator;
+
   constructor(page: Page) {
     super(page);
-    this.url = '/'
+    this.path = '/';
+    this.linkProduct = page.locator('a.prdocutname');
+  }
+
+  async selectProduct(product: string) {
+    await this.linkProduct.filter({ hasText: product }).click();
   }
 }
